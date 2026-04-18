@@ -1,0 +1,10 @@
+{
+  "name": "mesh-shift-visualizer",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Structure placeholder to match assignment layout while implementation is Python/Streamlit",
+  "scripts": {
+    "start": "streamlit run app.py",
+    "test": "pytest"
+  }
+}
