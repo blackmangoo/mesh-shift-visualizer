@@ -62,7 +62,7 @@ This repo already has multiple commits so the history looks clean and incrementa
 ## Report Name
 Use this exact filename for the PDF report:
 
-`23F-XXXX_A2_Q4_Report.pdf`
+`222F_3102_A2_Q4_Report.pdf`
 
 ## Screenshots Needed
 - Initial state

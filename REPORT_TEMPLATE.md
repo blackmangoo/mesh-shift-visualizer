@@ -1,4 +1,4 @@
-# 23F-XXXX_A2_Q4_Report
+# 222F_3102_A2_Q4_Report
 
 ## 1. Introduction (~0.5 page)
 - Define circular q-shift: node i sends data to node (i + q) mod p.
@@ -68,4 +68,4 @@ Important:
 
 ## Final Export
 - Export this report as PDF named:
-  - 23F-XXXX_A2_Q4_Report.pdf
+  - 222F_3102_A2_Q4_Report.pdf
